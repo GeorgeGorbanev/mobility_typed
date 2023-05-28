@@ -1,5 +1,8 @@
 # Mobility. Typed.
 
+[![Ruby](https://github.com/GeorgeGorbanev/mobility_typed/actions/workflows/ruby.yml/badge.svg)](https://github.com/GeorgeGorbanev/mobility_typed/actions/workflows/ruby.yml)
+[![Gem Version](https://badge.fury.io/rb/mobility_typed.svg)](https://badge.fury.io/rb/mobility_typed)
+
 This gem contains plugin for [Mobility](https://github.com/shioyama/mobility) translation framework. 
 It provides type checking for attribute writers.
 
