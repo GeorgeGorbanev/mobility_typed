@@ -18,3 +18,7 @@ Metrics/AbcSize:
 Metrics/MethodLength:
   Exclude:
     - "spec/**/*"
+
+Style/ClassVars:
+  Exclude:
+    - "spec/**/*"
